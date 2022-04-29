@@ -1,11 +1,11 @@
 # Text-label-prediction
 Text label prediction with different input methods : frequency, topic and word embedding 
 
-The code will 
+The code will :
 
-Download the labelled tasks from the label-studio plattform 
+Download the labelled tasks from the label-studio platform 
 
-Extract your annotation together with the labels from the downloaded data
+Extract the annotation together with the labels from the downloaded data
 
 Preprocess the textual data and use different textual models (TF-IDF, CBOW, Bag of Words and LSA) 
 
